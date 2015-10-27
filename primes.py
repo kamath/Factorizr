@@ -1,3 +1,4 @@
+#iterates through list to find prime factorization
 import sqlite3 as lite
 import sys
 
